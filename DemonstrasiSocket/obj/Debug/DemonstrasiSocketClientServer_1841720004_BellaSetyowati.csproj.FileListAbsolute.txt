@@ -1,0 +1,10 @@
+D:\Kuliah\SMT 5\Jaringan\DemonstrasiSocket\DemonstrasiSocket\bin\Debug\DemonstrasiSocket.exe.config
+D:\Kuliah\SMT 5\Jaringan\DemonstrasiSocket\DemonstrasiSocket\bin\Debug\DemonstrasiSocket.exe
+D:\Kuliah\SMT 5\Jaringan\DemonstrasiSocket\DemonstrasiSocket\bin\Debug\DemonstrasiSocket.pdb
+D:\Kuliah\SMT 5\Jaringan\DemonstrasiSocket\DemonstrasiSocket\obj\Debug\DemonstrasiSocketClientServer_1841720004_BellaSetyowati.csprojAssemblyReference.cache
+D:\Kuliah\SMT 5\Jaringan\DemonstrasiSocket\DemonstrasiSocket\obj\Debug\DemonstrasiSocket.FrmDemoSocketClientServer.resources
+D:\Kuliah\SMT 5\Jaringan\DemonstrasiSocket\DemonstrasiSocket\obj\Debug\DemonstrasiSocket.Properties.Resources.resources
+D:\Kuliah\SMT 5\Jaringan\DemonstrasiSocket\DemonstrasiSocket\obj\Debug\DemonstrasiSocketClientServer_1841720004_BellaSetyowati.csproj.GenerateResource.cache
+D:\Kuliah\SMT 5\Jaringan\DemonstrasiSocket\DemonstrasiSocket\obj\Debug\DemonstrasiSocketClientServer_1841720004_BellaSetyowati.csproj.CoreCompileInputs.cache
+D:\Kuliah\SMT 5\Jaringan\DemonstrasiSocket\DemonstrasiSocket\obj\Debug\DemonstrasiSocket.exe
+D:\Kuliah\SMT 5\Jaringan\DemonstrasiSocket\DemonstrasiSocket\obj\Debug\DemonstrasiSocket.pdb
